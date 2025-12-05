@@ -1,4 +1,2 @@
-read read
-read
-read
-reqad
+minimal generic express backend
+serving json over rest
